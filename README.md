@@ -11,6 +11,14 @@ Site web de vente en ligne de vêtements : un site web créé en utilisant HTML,
 Application de gestion de tâches : une application créée en utilisant React et Firebase pour aider les utilisateurs à organiser leurs tâches quotidiennes.
 Jeu vidéo en ligne : un jeu créé en utilisant Phaser et Node.js pour offrir aux joueurs une expérience de jeu en ligne immersive.
 
-
 # Mon expérience
 J'ai récemment participé à un stage chez une entreprise de développement de logiciels où j'ai appris à travailler avec des technologies telles que React, Node.js et MongoDB. J'ai également travaillé sur des projets personnels qui m'ont permis d'acquérir une expérience pratique dans la création de sites web et d'applications.
+
+# Mes compétences
+Je maîtrise plusieurs langages de programmation, notamment :
+
+HTML, CSS et JavaScript pour la création de sites web
+React pour la création d'applications
+Node.js pour le développement back-end
+MongoDB pour la gestion de bases de données
+Je suis également à l'aise avec les outils de versionnement tels que Git et GitHub, ainsi qu'avec les outils de collaboration en équipe tels que Slack et Trello.
