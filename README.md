@@ -8,3 +8,10 @@ My name is Julie and I am currently in high school. I am a developer with a pass
 
 # Qui suis-je ? - Who am I ?
 Je suis une personne motivée et déterminée, qui aime apprendre et relever de nouveaux défis. J'aime travailler en équipe et je suis toujours prête à aider mes collègues à atteindre leurs objectifs.
+
+# Mes projets
+Voici quelques-uns de mes projets récents :
+
+Site web de vente en ligne de vêtements : un site web créé en utilisant HTML, CSS, et JavaScript pour permettre aux utilisateurs de commander des vêtements en ligne.
+Application de gestion de tâches : une application créée en utilisant React et Firebase pour aider les utilisateurs à organiser leurs tâches quotidiennes.
+Jeu vidéo en ligne : un jeu créé en utilisant Phaser et Node.js pour offrir aux joueurs une expérience de jeu en ligne immersive.
