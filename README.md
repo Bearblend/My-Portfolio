@@ -27,3 +27,6 @@ React pour la création d'applications
 Node.js pour le développement back-end
 MongoDB pour la gestion de bases de données
 Je suis également à l'aise avec les outils de versionnement tels que Git et GitHub, ainsi qu'avec les outils de collaboration en équipe tels que Slack et Trello.
+
+# Contact
+Si vous êtes intéressé par mes compétences et que vous souhaitez en savoir plus sur moi, n'hésitez pas à me contacter à l'adresse suivante : TODO. Je suis impatiente de discuter avec vous de la possibilité de travailler ensemble sur un projet passionnant !
